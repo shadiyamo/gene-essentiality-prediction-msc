@@ -1,0 +1,38 @@
+feature_name,feature_type,data_source,description
+protein_length,biological,UniProt,Protein sequence length in amino acids
+molecular_weight,biological,UniProt,Molecular weight in Daltons
+hydrophobic_ratio,biological,UniProt,Ratio of hydrophobic amino acids
+charged_ratio,biological,UniProt,Ratio of charged amino acids
+aromatic_ratio,biological,UniProt,Ratio of aromatic amino acids
+polar_ratio,biological,UniProt,Ratio of polar amino acids
+disorder_prone_ratio,biological,UniProt,Ratio of disorder-prone amino acids
+gc_content,biological,UniProt,GC content of sequence
+has_signal_peptide,biological,UniProt,Presence of signal peptide
+transmembrane_domains,biological,UniProt,Number of transmembrane domains
+domain_count,biological,UniProt,Number of protein domains
+repeat_count,biological,UniProt,Number of repeat regions
+coiled_coil_count,biological,UniProt,Number of coiled-coil regions
+enzyme_count,biological,UniProt,Number of enzyme classifications
+has_enzyme_activity,biological,UniProt,Has enzyme activity (boolean)
+protein_existence_evidence,biological,UniProt,Protein existence evidence level
+has_experimental_evidence,biological,UniProt,Has experimental evidence (boolean)
+go_molecular_function,biological,UniProt,GO molecular function annotations
+go_biological_process,biological,UniProt,GO biological process annotations
+go_cellular_component,biological,UniProt,GO cellular component annotations
+go_total_count,biological,UniProt,Total GO annotations
+interpro_domains,biological,UniProt,InterPro domain annotations
+pfam_domains,biological,UniProt,Pfam domain annotations
+smart_domains,biological,UniProt,SMART domain annotations
+supfam_domains,biological,UniProt,SUPFAM domain annotations
+total_domain_databases,biological,UniProt,Total domain databases
+subcellular_location_count,biological,UniProt,Number of subcellular locations
+is_membrane_protein,biological,UniProt,Is membrane protein (boolean)
+is_nuclear_protein,biological,UniProt,Is nuclear protein (boolean)
+is_cytoplasmic_protein,biological,UniProt,Is cytoplasmic protein (boolean)
+is_mitochondrial_protein,biological,UniProt,Is mitochondrial protein (boolean)
+is_secreted_protein,biological,UniProt,Is secreted protein (boolean)
+keyword_count,biological,UniProt,Total number of keywords
+has_essential_keywords,biological,UniProt,Has essential-related keywords
+has_metabolic_keywords,biological,UniProt,Has metabolic-related keywords
+has_structural_keywords,biological,UniProt,Has structural-related keywords
+has_regulatory_keywords,biological,UniProt,Has regulatory-related keywords

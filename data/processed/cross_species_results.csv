@@ -1,0 +1,4 @@
+test_species,train_species,train_samples,test_samples,accuracy,roc_auc,essential_genes_predicted,actual_essential_genes
+C_elegans,"Tribolium, Drosophila",29526,24397,0.9988933065540845,0.9999708815234687,2522,2547
+Tribolium,"C_elegans, Drosophila",52727,1196,0.9941471571906354,0.999901321725009,537,544
+Drosophila,"C_elegans, Tribolium",25593,28330,0.999717613836922,0.999990947556924,1356,1362

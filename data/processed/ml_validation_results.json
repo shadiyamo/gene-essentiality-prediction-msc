@@ -1,0 +1,13 @@
+{
+  "cross_species_results": [
+    {
+      "test_species": "C_elegans",
+      "train_species": [
+        "Tribolium",
+        "Drosophila"
+      ],
+      "train_samples": 29526,
+      "test_samples": 24397,
+      "accuracy": 0.9988933065540845,
+      "roc_auc": 0.9999708815234687,
+      "essential_genes_predicted": 

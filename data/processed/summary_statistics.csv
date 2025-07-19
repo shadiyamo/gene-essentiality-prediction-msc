@@ -1,0 +1,6 @@
+metric,value
+avg_accuracy,0.9975860258605472
+avg_roc_auc,0.9999543836018004
+total_genes,53923.0
+num_species,3.0
+num_features,22.0

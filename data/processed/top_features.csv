@@ -1,0 +1,16 @@
+feature,importance
+num_orthologs_vertebrates,0.28516750849534683
+num_essential_go_terms,0.20224317889318144
+conservation_probability,0.19634144942809809
+ppi_degree_centrality,0.13599815972609045
+protein_disorder_content,0.07765750086301752
+sequence_length,0.02864026314863661
+protein_length,0.019983026921075894
+molecular_weight_kda,0.019778473824218764
+phylop_conservation_score,0.016352753145519462
+num_pfam_domains,0.007417375733966625
+gc_content,0.0016490577528344061
+ancient_gene,0.0015841578120446393
+at_content,0.0015808252315442678
+kozak_strength,0.0010739601498512455
+codon_adaptation_index,0.0010549130376524757
